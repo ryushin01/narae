@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="narae">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/withuslaw-react-web-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nicekos_admin_flutter-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nicekos-root-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nicekos-react-web-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nicekos-flutter-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nicekos-interface-root-uat-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nicekos-root-main (1).zip!/" />
+      <root url="jar://$PROJECT_DIR$/rcv-kos-root-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
